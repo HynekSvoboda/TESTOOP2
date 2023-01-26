@@ -1,0 +1,10 @@
+G:\prg\TESTOOP\TESTOOP\bin\Debug\TESTOOP.exe.config
+G:\prg\TESTOOP\TESTOOP\bin\Debug\TESTOOP.exe
+G:\prg\TESTOOP\TESTOOP\bin\Debug\TESTOOP.pdb
+G:\prg\TESTOOP\TESTOOP\obj\Debug\TESTOOP.csprojAssemblyReference.cache
+G:\prg\TESTOOP\TESTOOP\obj\Debug\TESTOOP.Form1.resources
+G:\prg\TESTOOP\TESTOOP\obj\Debug\TESTOOP.Properties.Resources.resources
+G:\prg\TESTOOP\TESTOOP\obj\Debug\TESTOOP.csproj.GenerateResource.cache
+G:\prg\TESTOOP\TESTOOP\obj\Debug\TESTOOP.csproj.CoreCompileInputs.cache
+G:\prg\TESTOOP\TESTOOP\obj\Debug\TESTOOP.exe
+G:\prg\TESTOOP\TESTOOP\obj\Debug\TESTOOP.pdb
